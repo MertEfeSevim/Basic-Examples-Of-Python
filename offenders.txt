@@ -1,0 +1,2 @@
+Your Plate Number :07F9 Your Entering Time :1:1:1 Your Exiting Time :1:1:2 Time Difference : 0:00:01 Your Speed :380.0
+Your Plate Number :seın Your Entering Time :1:1:1 Your Exiting Time :1:1:3 Time Difference : 0:00:02 Your Speed :190.0
